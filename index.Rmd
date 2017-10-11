@@ -1,0 +1,27 @@
+---
+title       : Plotter App
+subtitle    : 
+author      : Shikhar Nath Sil
+job         : 12 Oct 2017
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : [bootstrap, quiz, shiny, interactive] # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Plotter App (What is it?)
+
+Enter a valid expression, put lower and upper limit, and the nummber of steps, and see a chart is generated.
+
+--- .class #id
+
+## How does it look?
+
+![width](https://i.imgur.com/z3Yt3rg.png)
+
+--- .class #id
+
+#Thank You!
+
